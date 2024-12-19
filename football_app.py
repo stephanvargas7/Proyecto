@@ -119,6 +119,3 @@ if not data.empty:
 
 else:
     st.warning("No se encontraron datos. Verifica el token o la API.")
-
-
-
